@@ -11,7 +11,7 @@
             "loggingOptions": "",
             "registryCredentials": {
               "acr": {
-                "username": "${containerforiotedge}",
+                "username": "${containerforexerciseIoTEdge}",
                 "password": "${carloscarlos}",
                 "address": "${containerforiotedge.azurecr.io}"
               }
